@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=kwimy-sddm
+Description=kwimy-sddm
+Author=keyitdev
+Website=https://github.com/Keyitdev/sddm-astronaut-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.3
+ConfigFile=Themes/kwimy-sddm.conf
+Screenshot=Previews/1.jpeg
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=kwimy-sddm
+Theme-API=2.0
+QtVersion=6
